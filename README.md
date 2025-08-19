@@ -9,7 +9,11 @@ Battle waves of enemies, collect power-ups, and survive as long as possible whil
 
 Check out the gameplay of **Space Invaders**:
 
-![Demo]()
+![Demo](
+
+https://github.com/user-attachments/assets/1c4cced0-cf51-47c0-891e-768fb92aa4e6
+
+)
 
 
 
